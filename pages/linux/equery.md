@@ -6,7 +6,7 @@
 
 `equery list '*'`
 
-- Search for installed packages in the Portage tree and overlays:
+- Search for installed packages in the Portage tree and in overlays:
 
 `equery list -po {{package_name}}`
 
